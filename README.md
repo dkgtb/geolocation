@@ -1,2 +1,2 @@
-# geolocation
-This project is developed in Java for easier data access application for Medical doctors and Patients
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
